@@ -1,0 +1,19 @@
+{
+  "casas": [{
+    "picada": {
+      "sala": 1,
+      "quartos": 3,
+      "cozinha": 1,
+      "banheiro": 1,
+      "endereco": {
+        "cep": "92870000",
+        "rua": "Beco do Binga",
+        "numero": 105,
+        "bairro": "picada",
+        "cidade": "Barra do Ribeiro",
+        "estado": "Rio Grande do sul",
+        "pais": "Brasil"
+      }
+    }
+  }] 
+}
